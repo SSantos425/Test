@@ -10,6 +10,7 @@ public class Test {
 			System.out.print(vector[i] + " ");
 		}
 		System.out.println();
+		System.out.println("Its int github now");
 		System.out.println("Typer a number to be removed");
 		int number=sc.nextInt();
 		for (int i = 0; i < vector.length-1; i++) {
